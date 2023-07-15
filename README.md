@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a project, and using it as a learning process.[KuruFrec](https://github.com/elikawa7/kurufrec)
+- 🔭 I’m currently working on a project, and using it as a learning process. [KuruFrec](https://github.com/elikawa7/kurufrec)
 - 🌱 I’m currently learning Java and its intrincancies, 
       also learning design patterns and arch patterns and best practices when writing code, 
       I'm also curious about data structures and concurrency. I'm also interested in other languages. such as rust, go and python.
