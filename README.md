@@ -1,19 +1,9 @@
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/elikawa7">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elikawa7&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elikawa7&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+Hi i like coding. and also I hate my life that's why i like coding. 
 <!--
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java and its intrincancies, 
-      also learning design patterns and arch patterns and best practices when writing code, 
-      I'm also curious about data structures and concurrency. I'm also interested in other languages. such as kotlin, go and python.
 
 
 **elikawa7/elikawa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
