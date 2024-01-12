@@ -1,5 +1,5 @@
 
-Hi i like coding. and also I hate my life that's why i like coding. 
+Hi i like coding.
 <!--
 ### Hi there 👋
 
